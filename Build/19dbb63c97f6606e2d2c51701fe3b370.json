@@ -1,0 +1,16 @@
+{
+"companyName": "UnderscoredLabs",
+"productName": "dAppy Doge",
+"productVersion": "0.1",
+"dataUrl": "1f9043da3f68153436d98639ff5bc774.unityweb",
+"wasmCodeUrl": "4171603c3fa3c7b854a7bb50869c43da.unityweb",
+"wasmFrameworkUrl": "28757b41419c305b45d8a8f17251e534.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
